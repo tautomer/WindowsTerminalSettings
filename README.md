@@ -40,5 +40,7 @@
 ## Usage
 
 Just run `apply.sh` in WSL, which will be copy files to
-`%LocalAppData%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe`. Install the
-font manually if you like it.
+`%LocalAppData%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe` for
+`Windows Terminal` or 
+`%LocalAppData%\Packages\Microsoft.WindowsTerminalPreview_8wekyb3d8bbwe` for
+`Windows Terminal Preview`. Install the font manually if you like it.
